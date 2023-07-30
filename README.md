@@ -14,4 +14,9 @@ This is the final project for meta database engineer certification
     In the __task-3__, find all menu items for which more than 2 orders have been placed.<br>
     *__All this task(1-3) are done in assignment_a.sql file__*
 
-    
+    <br>
+    In <b>task 4</b>, created a procedure *GetMaxQuantity* that displays the maximum ordered quantity in the Orders table.<br>
+    In <b>task 5</b>, created a prepared statement called GetOrderDetail that returns the order id, the quantity and the order cost from the Orders table. <br>
+    In <b>task 6</b>, created a stored procedure called CancelOrder. Little Lemon want to use this stored procedure to delete an order record based on the user input of the order id.<Br>
+    <i><b>All this task(4-6) are done in assignment_b.sql file</i></b>
+
