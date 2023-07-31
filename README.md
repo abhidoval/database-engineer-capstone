@@ -20,6 +20,8 @@ This is the final project for meta database engineer certification
     In <b>task 6</b>, created a stored procedure called CancelOrder. Little Lemon want to use this stored procedure to delete an order record based on the user input of the order id.<Br>
     <i><b>All this task(4-6) are done in assignment_b.sql file</i></b>
 
+    <a href='week-2/procedures'><i>procedures</i></a> folder contains all the file related to the procedure statements assignment
+
 3. <a href='week-3'>Week3</a><br>
     <b><i>visualisation.ipynb</i></b> contains all the tableau charts.<br>
     <b><i>connection.ipynb</i></b> file contains the assignment releated to connecting the sql with python.<br>
